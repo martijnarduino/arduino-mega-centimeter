@@ -1,0 +1,2 @@
+# arduino-mega-centimeter
+welkom bij mijn tweede post op github  tweede post DigitaleCentimeter  lcd  scl 21 communication  sda 20 communication  vcc 5v gnd gnd    piezo  plus 17(PWM)  gnd gnd    knop  gnd gnd  plus A15    *LET OP WEERSTANDEN BIJ DE PLUS VAN DE LED'S    led rood 14 gnd gnd  led geel 16 gnd gnd    *LET OP WEERSTANDEN BIJ DE PLUS VAN DE LED'S    Ultrasone afstandsensor  vcc 5v  trig 9  echo 10  gnd gnd
